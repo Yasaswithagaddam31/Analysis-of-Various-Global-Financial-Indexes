@@ -105,9 +105,15 @@ Visualization:
 Plot the relationships and trends over the 15-year time frame using visualizations such as heatmaps, line charts, and scatter plots.
 Outcomes
 
+
 This project aims to provide insights into:
+
 The interplay between currency, stock market indices, and commodities.
+
 The influence of interest rates and bond yields on market performance.
+
 Global stock market relationships and their evolution over time.
+
 Patterns and correlations between precious metals, investor sentiment, and stock indices.
+
 Connections between cryptocurrency markets and traditional stock indices.
